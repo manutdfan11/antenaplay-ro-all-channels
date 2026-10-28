@@ -141,18 +141,4 @@ https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro@SD",DeParinti.ro
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="AccesDirect.ro@SD",Acces Direct
-https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8/live_ObservatorNews/live_ObservatorNews.m3u8g.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8_ObservatorNews/live_ObservatorNews.m3u8orNews.m3u8ive_ObservatorNews/live_ObservatorNews.m3u8/atomictv.m3u8
-#EXTINF:-1 tvg-id="ObservatorNews.ro@SD",Observator News (720p)
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8g.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-id="AntenaMonden.ro@SD",Antena Monden (720p)
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro@SD",AntenaSport (1280p) [Not 24/7]
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD",Atomic Academy TV (480p)
-https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 tvg-id="AtomicTV.ro@SD",Atomic TV (360p)
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 tvg-id="ObservatorNews.ro@SD",Observator News (720p)
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8/atomictv.m3u8
-#EXTINF:-1 tvg-id="ObservatorNews.ro@SD",Observator News (720p)
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8g.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8_ObservatorNews/live_ObservatorNews.m3u8orNews.m3u8ve_ObservatorNews.m3u8g.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8_ObservatorNews/live_ObservatorNews.m3u8orNews.m3u8
+https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
