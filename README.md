@@ -1,4 +1,4 @@
-In this m3u playlist u can find all TV Channels all exclusive channels on romanian online platform antenaPLAY
+In this m3u playlist u can find all TV Channels from the romanian online platform antenaPLAY
 
 
 SPORTS PROGRAM:
