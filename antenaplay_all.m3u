@@ -119,11 +119,11 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="TarafTV.ro@SD",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="RadioZU.ro",Radio ZU
-https://live4ro.antenaplay.ro/zurtv/zurtv/chunklist.m3u8?version=1&session=k0yPKKKCsLKEPmYglrxV&starttime=1793182112&endtime=1793196542&source=zuweb&token=klIU6-sMKn28C-wamIv31gl0FHg=
+https://live4ro.antenaplay.ro/zurtv/zurtv/chunklist.m3u8?version=1&session=7umn96oTjZ7ER96XqUqd&starttime=1793380571&endtime=1793395001&source=zuweb&token=vFOifgt1RJwcr_QCYoDF1_GOND8=
 #EXTINF:-1 tvg-id="RomanticFM.ro@SD",Romantic FM
-https://live14digi.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8?version=1&session=DZgX4HQdhNfYOE487kEW&starttime=1793182324&endtime=1793196754&source=web&token=Cn6jv24JhEmboJwiDW9sbSv9k0E=
+https://live4ro.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8?version=1&session=WwQWuZA2PAbNc8JHlPup&starttime=1793380561&endtime=1793394991&source=web&token=72W2XsCAj_jAKaSS7-_lek4aFrQ=
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
-https://live14digi.antenaplay.ro/as/AS.ro/chunklist.m3u8?version=1&session=DZgX4HQdhNfYOE487kEW&starttime=1793182324&endtime=1793196754&source=web&token=Cn6jv24JhEmboJwiDW9sbSv9k0E=
+https://live4ro.antenaplay.ro/as/AS.ro/chunklist.m3u8?version=1&session=WwQWuZA2PAbNc8JHlPup&starttime=1793380561&endtime=1793394991&source=web&token=72W2XsCAj_jAKaSS7-_lek4aFrQ=
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
 https://live4dai.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="iRoast.ro@SD",iRoast
