@@ -8,6 +8,7 @@ https://live4dai.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@SD",Antena 3 CNN
 https://live4dai.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro@SD",Antena Stars
+http://31.43.191.142:8080/191703089055131/01703089055686/8718
 #EXTINF:-1 tvg-id="HappyChannel.ro@SD",Happy Channel
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro@SD",Chefi.ro
@@ -123,6 +124,8 @@ https://live4ro.antenaplay.ro/zurtv/zurtv/chunklist.m3u8?version=1&session=k0yPK
 https://live14digi.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8?version=1&session=DZgX4HQdhNfYOE487kEW&starttime=1793182324&endtime=1793196754&source=web&token=Cn6jv24JhEmboJwiDW9sbSv9k0E=
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
 https://live14digi.antenaplay.ro/as/AS.ro/chunklist.m3u8?version=1&session=DZgX4HQdhNfYOE487kEW&starttime=1793182324&endtime=1793196754&source=web&token=Cn6jv24JhEmboJwiDW9sbSv9k0E=
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
+https://live4dai.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="iRoast.ro@SD",iRoast
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD",Comedy Play
