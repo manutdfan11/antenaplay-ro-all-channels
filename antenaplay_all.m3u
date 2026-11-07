@@ -32,6 +32,8 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD",Fight Box HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+EXTINF:-1 tvg-id="FIA World Endurance ChampionshipAntenaPlay.ro@SD",FIA World Endurance Championship AntenaPlay
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="TenisdemasaWTTChampionsFrankfurt2026AntenaPlay.ro@SD",Tenis de masa WTT Champions Frankfurt 2026 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
