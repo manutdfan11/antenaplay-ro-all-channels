@@ -37,9 +37,7 @@ https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD",Fight Box HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FIA World Endurance ChampionshipAntenaPlay.ro@SD",FIA World Endurance Championship AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
-#EXTINF:-1 tvg-id="TenisdemasaWTTChampionsFrankfurt2026AntenaPlay.ro@SD",Tenis de masa WTT Champions Frankfurt 2026 AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
+https://stream1.antenaplay.ro/promo/fia-wec-monza/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
 https://hls01ns.antenaplay.ro/hls/tvr-1-hd/index.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
@@ -131,11 +129,15 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03.m3u8
+https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD",Formula 2 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula1AcademyAntenaPlay.ro@SD",Formula 1 Academy AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-academy-las-vegas-general-2026/chunklist.m3u8
 #EXTINF:-1 tvg-id="iRoast.ro@SD",iRoast
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD",Comedy Play
