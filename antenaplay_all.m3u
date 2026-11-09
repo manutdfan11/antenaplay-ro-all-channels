@@ -15,7 +15,11 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1 tvg-id="Ana,Mi-aifostscrisainADN.ro@SD",Ana, Mi-ai fost scrisa in ADN
 https://live77cdn2.antenaplay.ro/live2_sdi16/live2_sdi16.m3u8
-#EXTINF:-1 tvg-id="MireasaExtra.ro@SD",Mireasa Extra (720p)
+#EXTINF:-1 tvg-id="Mireasa.ro@SD",Mireasa
+https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
+#EXTINF:-1 tvg-id="MireasaPlus.ro@SD",Mireasa Plus
+https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
+#EXTINF:-1 tvg-id="MireasaExtra.ro@SD",Mireasa Extra
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
