@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WTTContender-Tenisdemasa|🇷🇴BernadetteSzocs-🇷🇴ElisabetaSamaraLIVE.ro@SD",WTT Contender - Tenis de masa |🇷🇴 Bernadette Szocs - 🇷🇴 Elisabeta Samara LIVE
-https://live14digi.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8?version=1&session=vtFwcpCh2mc6cKueL5r0&starttime=1794499185&endtime=1794513615&source=web&token=UfNybGrpVCyRUNMd-fAPwnsMsVI=
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD",Antena 1
@@ -135,7 +133,7 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03.m3u8
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD",Formula 2 AntenaPlay
