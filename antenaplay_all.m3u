@@ -135,7 +135,7 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
-https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD",Formula 2 AntenaPlay
