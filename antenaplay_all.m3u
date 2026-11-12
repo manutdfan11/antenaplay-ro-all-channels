@@ -22,7 +22,7 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MireasaExtra.ro@SD",Mireasa Extra
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="WTTContenderTenisdemasaMasa4AntenaPlay.ro@SD",WTT Contender Tenis de masa Masa 4 AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
+https://live77cdn2.antenaplay.ro/live2_srt4/live2_srt4.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
