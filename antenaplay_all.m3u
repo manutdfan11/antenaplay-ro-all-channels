@@ -21,6 +21,8 @@ https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
 https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MireasaExtra.ro@SD",Mireasa Extra
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="WTTContenderTenisdemasaMasa1AntenaPlay.ro@SD",WTT Contender Tenis de masa Masa 1 AntenaPlay
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="WTTContenderTenisdemasaMasa4AntenaPlay.ro@SD",WTT Contender Tenis de masa Masa 4 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_srt4/live2_srt4.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
