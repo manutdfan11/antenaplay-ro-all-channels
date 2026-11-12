@@ -160,3 +160,5 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 #EXTINF:-1 tvg-id="Chefilacuțite.ro@SD",Chefi la cutite
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ivm.antenaplay.ro/thumbs/antena1/2026/11/12/nyWxw6Fn8Cp_1O.jpg" group-title="WTT Contender Istanbul 2026",Tenis de masă | WTT Contender Istanbul 2026: Bernadette Szocs vs. Elizabeta Samara
+https://vod15digi.antenaplay.ro/antena1/2026/11/12/aa58ba94c5606ad3c5a59e2a3b663d7990d74d0230401b663f7fdcaa842fb689_720p-wide.mp4/index-v1-a1.m3u8
