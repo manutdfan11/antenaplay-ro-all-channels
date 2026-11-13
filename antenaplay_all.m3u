@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AntenaPLAY.ro@SD",WTT Contender Istanbul 2026| Jia Nan Yuan & Prithika Pavade vs. Elizabeta Samara & Bernadette Szocs LIVE
+https://live14digi.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8?version=1&session=K5IyoeKkVWc5IHojnLGh&starttime=1794576687&endtime=1794591117&source=web&token=Ip4Yq74xEfnptz3e0cv4lTlFFnA=
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD",Antena 1
