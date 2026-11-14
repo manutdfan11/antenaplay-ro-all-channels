@@ -8,7 +8,7 @@ SPORTS PROGRAM:
 
 
 
-WTT Contender - Tenis de masa |🇷🇴 Bernadette Szocs vs 🇨🇳 Joo Cheonhui LIVE on WTT Contender Tenis de masa Masa 2 AntenaPlay
+WTT Contender - Tenis de masa |🇷🇴 Bernadette Szocs vs 🇰🇷 Joo Cheonhui LIVE on WTT Contender Tenis de masa Masa 2 AntenaPlay
 
 
 ![alt link](https://r2.thesportsdb.com/images/media/event/thumb/z7wy9b1760900435.jpg)
