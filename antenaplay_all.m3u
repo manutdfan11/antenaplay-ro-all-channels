@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WTTContenderTenisdemasa|🇷🇴BernadetteSzocsvs🇰🇷JooCheonhui.ro@SD",WTT Contender - Tenis de masa |🇷🇴 Bernadette Szocs vs 🇰🇷 Joo Cheonhui LIVE
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD",Antena 1
@@ -164,6 +162,8 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 #EXTINF:-1 tvg-id="Chefilacuțite.ro@SD",Chefi la cutite
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ivm.antenaplay.ro/thumbs/antena1/2026/11/13/pnZVRkn7cob_1O.jpg" group-title="WTT Contender Istanbul 2026",Tenis de masă | WTT Contender Istanbul 2026: Bernadette Szocs vs. Xiaotong Wang
+https://vod15digi.antenaplay.ro/antena1/2026/11/13/8ad1cf66bc94478d7e7293f5d832266c31dc8d1b0039b849167c29bf8aacfc9a_720p-wide.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ivm.antenaplay.ro/thumbs/antena1/2026/11/12/nyWxw6Fn8Cp_1O.jpg" group-title="WTT Contender Istanbul 2026",Tenis de masă | WTT Contender Istanbul 2026: Bernadette Szocs vs. Elizabeta Samara
 https://vod15digi.antenaplay.ro/antena1/2026/11/12/aa58ba94c5606ad3c5a59e2a3b663d7990d74d0230401b663f7fdcaa842fb689_720p-wide.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ivm.antenaplay.ro/thumbs/antena1/2026/11/13/LhehChXWcf9_1O.jpg" group-title="NHL",NHL | Carolina Hurricanes - Seattle Kraken
