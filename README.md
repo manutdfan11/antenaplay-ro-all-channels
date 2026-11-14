@@ -12,4 +12,4 @@ NHL | Seattle Kraken - Carolina Hurricanes LIVE on NHL AntenaPlay
 ![alt link](https://assets.antenaplay.ro/2026/07/28/SUmYWRg4TfRjK4J3COY1.png)
 
 
-UEFA Nations League | Romania - Poland LIVE on Antena 1
+UEFA Nations League | Romania - Poland LIVE on Antena 1 and UEFA Nations League AntenaPlay
