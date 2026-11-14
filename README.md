@@ -2,10 +2,10 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 
 
 
-![alt link](https://r2.thesportsdb.com/images/media/event/thumb/z7wy9b1760900435.jpg)
+![alt link](https://r2.thesportsdb.com/images/media/event/thumb/eajddt1759234554.jpg)
 
 
-NHL | Seattle Kraken - Carolina Hurricanes LIVE on NHL AntenaPlay
+NBA | Dallas Stars - Cleveland Cavaliers LIVE on NBA AntenaPlay
 
 
 
