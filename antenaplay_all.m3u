@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD",Insula non stop
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
-#EXTINF:-1 tvg-id="UEFANationsLeagueAntenaPlay.ro@SD",UEFA Nations League AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD",Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD",Asia Express NonStop
@@ -135,7 +133,7 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
+https://stream1.antenaplay.ro/promo/nba-meci/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
 https://stream1.antenaplay.ro/promo/nhl-21-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
