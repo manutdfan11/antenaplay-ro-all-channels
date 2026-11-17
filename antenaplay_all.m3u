@@ -15,7 +15,7 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12.m3u8
 #EXTINF:-1 tvg-id="WTTStarContenderTenisdemasaMasa1AntenaPlay.ro@SD",WTT Star Contender Tenis de masa Masa 1 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
-EXTINF:-1 tvg-id="WTTStarContenderTenisdemasaMasa2AntenaPlay.ro@SD",WTT Star Contender Tenis de masa Masa 2 AntenaPlay
+#EXTINF:-1 tvg-id="WTTStarContenderTenisdemasaMasa2AntenaPlay.ro@SD",WTT Star Contender Tenis de masa Masa 2 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_srt2/live2_srt2.m3u8
 #EXTINF:-1 tvg-id="Chefilacuțite.ro@SD",Chefi la cutite
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
