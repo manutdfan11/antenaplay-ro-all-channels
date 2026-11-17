@@ -6,7 +6,7 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 
 
 
-WTT Star Contender Muscat 2026 | Maksim Grebnev vs. Eduard Ionescu LIVE on WTT Star Contender Tenis de masa Masa 2 AntenaPlay
+WTT Star Contender Muscat 2026 | Maksim Grebnev vs. Eduard Ionescu LIVE on WTT Star Contender Tenis de masa Masa 1 AntenaPlay
 
 
 
