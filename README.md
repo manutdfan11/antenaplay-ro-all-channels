@@ -9,6 +9,9 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 WTT Star Contender Muscat 2026 | Andrei Istrate & Iulian Chiriță vs. Lev Katsman & Maksim Grebnev LIVE on WTT Star Contender Tenis de masa Masa 2 AntenaPlay
 
 
+WTT Star Contender Muscat 2026 | Eduard Ionescu vs. Finn Luu LIVE on WTT Star Contender Tenis de masa Masa 3 AntenaPlay
+
+
 
 ![alt link](https://assets.antenaplay.ro/2026/11/02/KfajC3lIDcckRNOriE5M.png)
 
