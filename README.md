@@ -2,14 +2,21 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 
 
 
-![alt link](https://assets.antenaplay.ro/2026/11/18/DeNbkc2lwQDCZnPfqKGv.jpg)
+![alt link](https://assets.antenaplay.ro/2026/11/19/HB1KRQ7Rn4dNIrWV5Yyk.jpg)
 
 
 
-WTT Star Contender Muscat 2026 | Andrei Istrate & Iulian Chiriță vs. Lev Katsman & Maksim Grebnev LIVE on WTT Star Contender Tenis de masa Masa 2 AntenaPlay
+WTT Star Contender Muscat 2026 | Iulian Chiriță vs. Simon Gauzy LIVE
 
 
-WTT Star Contender Muscat 2026 | Eduard Ionescu vs. Finn Luu LIVE on WTT Star Contender Tenis de masa Masa 3 AntenaPlay
+WTT Star Contender Muscat 2026 | Elizabeta Samara vs. Wang Xiaotong LIVE
+
+
+WTT Star Contender Muscat 2026 | Bernadette Szocs vs. Wei Jingming LIVE
+
+
+WTT Star Contender Muscat 2026 | Elena Zaharia vs. Elizabet Abraamian
+
 
 
 
@@ -17,11 +24,17 @@ WTT Star Contender Muscat 2026 | Eduard Ionescu vs. Finn Luu LIVE on WTT Star Co
 
 
 
-FIFA U-17 World Cup Qatar 2026 | All the games from the competition LIVE on FIFA U-17 World Cup AntenaPlay
+FIFA U-17 World Cup Qatar 2026 LIVE on FIFA U-17 World Cup AntenaPlay
 
 
 Program for the games:
 
+
+![alt link](https://assets.antenaplay.ro/2026/11/16/hX5GeOcaQYdYIWqdq1X0.png)
+
+
+
+FIFA U-17 World Cup| France - Haiti
 
 
 
