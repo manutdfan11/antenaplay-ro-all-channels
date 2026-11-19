@@ -30,14 +30,20 @@ FIFA U-17 World Cup Qatar 2026 LIVE on FIFA U-17 World Cup AntenaPlay
 Program for the games:
 
 
-![alt link](https://assets.antenaplay.ro/2026/11/16/hX5GeOcaQYdYIWqdq1X0.png)
+![alt link](https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/904998752_1480515144226273_7041677958096643777_n.jpg?stp=dst-webp_q70_s394x394&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=rRS0kAxvNsoQ7kNvwFaUKzb&_nc_oc=AdquW4pOoKQ7_9KzCu3XxpcWm0YaGitTa98xUQ2GgK_95lbKL1Mu-6tQCvwguZaILTQ&_nc_zt=23&_nc_ht=scontent.fotp3-4.fna&_nc_gid=67RmwjgkfEhaE81vWDJA_w&_nc_ss=7b289&oh=00_AQSRXjQR4ywsmfy18LUpyGl_Xk2zsKgTBQSoJWH1g-Q3Xw&oe=6B04B313)
 
 
 
 FIFA U-17 World Cup | France - Haiti
 
 
+FIFA U-17 World Cup | Saudi Arabia - Uruguay
 
+
+FIFA U-17 World Cup | Mozambique - Denmark
+
+
+FIFA U-17 World Cup | Argentina - Australia
 
 
 
