@@ -20,7 +20,7 @@ WTT Star Contender Muscat 2026 | Elena Zaharia vs. Elizabet Abraamian
 
 
 
-![alt link](https://assets.antenaplay.ro/2026/11/02/KfajC3lIDcckRNOriE5M.png)
+![alt link](https://assets.antenaplay.ro/2026/11/19/JEynRBRicOScyQxRZ0m4.png)
 
 
 
@@ -34,7 +34,7 @@ Program for the games:
 
 
 
-FIFA U-17 World Cup| France - Haiti
+FIFA U-17 World Cup | France - Haiti
 
 
 
