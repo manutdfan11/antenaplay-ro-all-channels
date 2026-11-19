@@ -17,8 +17,6 @@ https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
 https://live77cdn2.antenaplay.ro/live2_srt2/live2_srt2.m3u8
 #EXTINF:-1 tvg-id="WTTStarContenderTenisdemasaMasa2AntenaPlay.ro@SD",WTT Star Contender Tenis de masa Masa 3 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_srt3/live2_srt3.m3u8
-#EXTINF:-1 tvg-id="FIFAU-17WorldCupAntenaPlay.ro@SD",FIFA U-17 World Cup AntenaPlay
-https://vod77cdn.antenaplay.ro/antena1/2026/11/17/6da134a112a23087ae709da904413268df8a155da3c5ad65b7fc10a6872128cd_,720p-wide,.mp4.urlset/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro@SD",Chefi la cutite
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="Ana,Mi-aifostscrisainADN.ro@SD",Ana, Mi-ai fost scrisa in ADN
@@ -33,6 +31,8 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro@SD",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-id="FIFAU-17WorldCupAntenaPlay.ro@SD",FIFA U-17 World Cup AntenaPlay
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
