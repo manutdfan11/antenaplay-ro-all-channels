@@ -37,6 +37,8 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="FIFAU-17WorldCup2AntenaPlay.ro@SD",FIFA U-17 World Cup 2 AntenaPlay
 https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03.m3u8
+#EXTINF:-1 tvg-id="FIFAU-17WorldCup3AntenaPlay.ro@SD",FIFA U-17 World Cup 3 AntenaPlay
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
