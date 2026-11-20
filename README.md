@@ -23,7 +23,7 @@ FIFA U-17 World Cup Qatar 2026 | Belgium vs. Vietnam LIVE on FIFA U-17 World Cup
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Spain vs. China LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Spain vs. China LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
 FIFA U-17 World Cup Qatar 2026 | Italy vs. Jamaica LIVE on FIFA U-17 World Cup 1 AntenaPlay
