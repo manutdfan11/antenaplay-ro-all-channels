@@ -1,12 +1,6 @@
 In this m3u playlist u can find all TV Channels from the romanian online platform antenaPLAY.
 
 
-![alt link](https://assets.antenaplay.ro/2026/11/20/IpwkyLgOYRRfbYFyJyYI.jpg)
-
-
-WTT Star Contender Muscat 2026 | Bernadette Szocs vs. Joo Cheonhui LIVE on WTT Star Contender Tenis de masa Masa 1 AntenaPlay
-
-
 
 
 
@@ -35,7 +29,7 @@ FIFA U-17 World Cup Qatar 2026 | Spain vs. China LIVE on FIFA U-17 World Cup 1 A
 FIFA U-17 World Cup Qatar 2026 | Italy vs. Jamaica LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Senegal vs. Croatia LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Senegal vs. Croatia LIVE on FIFA U-17 World Cup 3 AntenaPlay
 
 
 
