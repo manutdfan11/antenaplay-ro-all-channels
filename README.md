@@ -45,11 +45,6 @@ Formula 1 | Las Vegas Grand Prix 2026 LIVE on Antena 3 CNN and Formula 1 AntenaP
 
 Program for the remained races:
 
-Saturday, November 21
-02:30 Practice 3 – Formula 1 AntenaPlay
-
-05:45 Qualifying Studio and Qualifying – Antena 3 CNN and Formula 1 AntenaPlay
-
 Sunday, November 22
 05:45 Race Studio and Race – Antena 3 CNN and Formula 1 AntenaPlay
 
@@ -66,10 +61,6 @@ Formula 1 Academy | Las Vegas Grand Prix 2026 LIVE on Formula 1 Academy AntenaPl
 
 
 Program for the remained races:
-
-Race 1	
-
-21 Nov 04:15 - Formula 1 Academy AntenaPlay
 
 Race 2	
 
