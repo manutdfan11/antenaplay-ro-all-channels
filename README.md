@@ -26,10 +26,10 @@ FIFA U-17 World Cup Qatar 2026 | Japan vs. Columbia LIVE on FIFA U-17 World Cup 
 FIFA U-17 World Cup Qatar 2026 | Cameroon vs. Venezuela LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Brazil vs. Ireland LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Brazil vs. Ireland LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Romania vs. Mexico LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Romania vs. Mexico LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
 
