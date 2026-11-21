@@ -11,8 +11,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro@SD",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12.m3u8
-#EXTINF:-1 tvg-id="WTTStarContenderTenisdemasaMasa1AntenaPlay.ro@SD",WTT Star Contender Tenis de masa Masa 1 AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_srt/live2_srt.m3u8
+#EXTINF:-1 tvg-id="FIFAU-17WorldCup1AntenaPlay.ro@SD",FIFA U-17 World Cup 1 AntenaPlay
+#EXTINF:-1 tvg-id="FIFAU-17WorldCup2AntenaPlay.ro@SD",FIFA U-17 World Cup 2 AntenaPlay
+#EXTINF:-1 tvg-id="FIFAU-17WorldCup3AntenaPlay.ro@SD",FIFA U-17 World Cup 3 AntenaPlay
 #EXTINF:-1 tvg-id="Ana,Mi-aifostscrisainADN.ro@SD",Ana, Mi-ai fost scrisa in ADN
 https://live77cdn2.antenaplay.ro/live2_sdi16/live2_sdi16.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD",Mireasa
@@ -25,9 +26,6 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro@SD",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
-#EXTINF:-1 tvg-id="FIFAU-17WorldCup1AntenaPlay.ro@SD",FIFA U-17 World Cup 1 AntenaPlay
-#EXTINF:-1 tvg-id="FIFAU-17WorldCup2AntenaPlay.ro@SD",FIFA U-17 World Cup 2 AntenaPlay
-#EXTINF:-1 tvg-id="FIFAU-17WorldCup3AntenaPlay.ro@SD",FIFA U-17 World Cup 3 AntenaPlay
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania",FILMBOX+ One Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
@@ -134,15 +132,15 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
+https://stream1.antenaplay.ro/promo/nba-meci/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
+https://stream1.antenaplay.ro/promo/nhl-21-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD",Formula 2 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula1AcademyAntenaPlay.ro@SD",Formula 1 Academy AntenaPlay
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="iRoast.ro@SD",iRoast
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1 tvg-id="InPuiiMei.ro@SD",In Puii Mei
