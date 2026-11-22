@@ -25,6 +25,10 @@ FIFA U-17 World Cup Qatar 2026 | Denamrk vs. Australia LIVE on FIFA U-17 World C
 FIFA U-17 World Cup Qatar 2026 | France vs. Saudi Arabia LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
+
+FIFA U-17 World Cup Qatar 2026 | Ecuador vs. Uganda LIVE on FIFA U-17 World Cup 3 AntenaPlay
+
+
 FIFA U-17 World Cup Qatar 2026 | Qatar vs. Egipt LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
