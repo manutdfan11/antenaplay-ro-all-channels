@@ -4,6 +4,17 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 
 
 
+![alt link](https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/912555033_1481697144108073_8281497354000633950_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=NDyXQfvq_dgQ7kNvwG2-NE4&_nc_oc=Adrud7UICRepKZs-4o4tgG6fjIyhFHhVKN_eXZ677BzPcgv_7vbDU9UurKTf5T4wyNk&_nc_zt=23&_nc_ht=scontent.fotp3-1.fna&_nc_gid=TQtFf0UM9ckwp8eci37xGA&_nc_ss=7b289&oh=00_AQQnorDyO01EjvbA8zlafbEAS-3IVPu7wEoNP8pbcjrdJw&oe=6B08F0B8)
+
+
+
+NHL | Carolina Hurricanes vs. New Work Rangers LIVE on NHL AntenaPlay
+
+
+
+
+
+
 ![alt link](https://assets.antenaplay.ro/2026/11/19/JEynRBRicOScyQxRZ0m4.png)
 
 
