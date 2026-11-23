@@ -12,6 +12,7 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro@SD",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12.m3u8
 #EXTINF:-1 tvg-id="FIFAU-17WorldCup1AntenaPlay.ro@SD",FIFA U-17 World Cup 1 AntenaPlay
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1 tvg-id="FIFAU-17WorldCup2AntenaPlay.ro@SD",FIFA U-17 World Cup 2 AntenaPlay
 #EXTINF:-1 tvg-id="FIFAU-17WorldCup3AntenaPlay.ro@SD",FIFA U-17 World Cup 3 AntenaPlay
 #EXTINF:-1 tvg-id="Ana,Mi-aifostscrisainADN.ro@SD",Ana, Mi-ai fost scrisa in ADN
@@ -132,7 +133,7 @@ https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD",NBA AntenaPlay
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
+https://stream1.antenaplay.ro/promo/nba-meci/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD",NHL AntenaPlay
 https://stream1.antenaplay.ro/promo/nhl-21-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD",Formula 1 AntenaPlay
