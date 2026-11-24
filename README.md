@@ -15,18 +15,18 @@ FIFA U-17 World Cup Qatar 2026 LIVE on AntenaPLAY
 Program for the games:
 
 
-![alt link](https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/913163931_1481609864116801_8664608798863554849_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=dvzkagrkhqkQ7kNvwFsVXcr&_nc_oc=AdqppYl3EveJZDMJgG9BBZdSEr6Qoith30xTgLTrUlQWdykX1wt9IMda4l_67KLjTls&_nc_zt=23&_nc_ht=scontent.fotp3-2.fna&_nc_gid=a9OYhL9lALQBXXZgVXBhZw&_nc_ss=7b289&oh=00_AQS9Tyb-gloMID6xk_Hok6lIxqdSVGFnDf08oe6h9EoXbQ&oe=6B09F1DF)
+![alt link](https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/926952650_1484925553785232_7758671643453801843_n.jpg?stp=dst-webp_q70_s394x394&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=xWUfb6cuJsAQ7kNvwFSS4QS&_nc_oc=Adojixcwe17QLHzNyKmkOoBUau4G9mFkkGfvHmkU1d6NsIuVZ2lqBhtFRsoMmZwpd3I&_nc_zt=23&_nc_ht=scontent.fotp3-1.fna&_nc_gid=bveEgo9PlBIEwA8vqtpFFw&_nc_ss=7b389&oh=00_AQRX5l3LzNGXdFsLOox059rbJLh667zxKrB0tM3xNasZzA&oe=6B0B719A)
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Spania vs. Fiji LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Venezuela vs. Romania LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Senegal vs. Cuba LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Mexico vs. Cameroon LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Italy vs. Ivory Coast LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Dominicană Republic vs. Chile LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Mali vs. Belgium LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Honduras vs. Columbia LIVE on FIFA U-17 World Cup 2 AntenaPlay
