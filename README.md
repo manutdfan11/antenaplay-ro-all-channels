@@ -15,18 +15,18 @@ FIFA U-17 World Cup Qatar 2026 LIVE on AntenaPLAY
 Program for the games:
 
 
-![alt link](https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/926952650_1484925553785232_7758671643453801843_n.jpg?stp=dst-webp_q70_s394x394&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=xWUfb6cuJsAQ7kNvwFSS4QS&_nc_oc=Adojixcwe17QLHzNyKmkOoBUau4G9mFkkGfvHmkU1d6NsIuVZ2lqBhtFRsoMmZwpd3I&_nc_zt=23&_nc_ht=scontent.fotp3-1.fna&_nc_gid=bveEgo9PlBIEwA8vqtpFFw&_nc_ss=7b389&oh=00_AQRX5l3LzNGXdFsLOox059rbJLh667zxKrB0tM3xNasZzA&oe=6B0B719A)
+![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/db0b72c8-247f-44a0-8c93-334067d9b449.png)
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Venezuela vs. Romania LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Ecuador vs. South Korea LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Mexico vs. Cameroon LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Uruguay vs. France LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Dominicană Republic vs. Chile LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Greece vs. Qatar LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Honduras vs. Columbia LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Denmark vs. Argentina LIVE on FIFA U-17 World Cup 2 AntenaPlay
