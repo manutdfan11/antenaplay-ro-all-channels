@@ -64,3 +64,34 @@ Qualifying – Antena 3 CNN,Formula 1 AntenaPlay
 Sunday:
 
 Race – Antena 3 CNN, Formula 1 AntenaPlay
+
+
+
+
+![alt link](https://assets.antenaplay.ro/2026/09/28/rAWdJT2iDkf7ZJA8ypFe.png)
+
+
+
+Formula 2 LIVE on AntenaPLAY
+
+
+Qatar Grand Prix Schedule:
+
+
+![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/ed859d13-81c3-4685-bd96-8de2ff35089a.png)
+
+
+
+Friday:
+
+Practice – Formula 2 AntenaPlay
+
+Qualifying – Formula 2 AntenaPlay
+
+Saturday:
+
+Sprint – Formula 2 AntenaPlay
+
+Sunday:
+
+Race – Formula 2 AntenaPlay
