@@ -33,9 +33,28 @@ FIFA U-17 World Cup Qatar 2026 | Croatia vs. Cuba LIVE on FIFA U-17 World Cup 2 
 
 
 
+![alt link](https://assets.antenaplay.ro/2026/10/03/V6nBSm61YQvzZQDa0o4R.png)
+
+
+
+NHL LIVE on AntenaPLAY
+
+
+Program for the game:
+
+
+![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/5034fd34-eb58-41bd-a751-842ed59cf318.png)
+
+
+
+
 
 
 ![alt link](https://assets.antenaplay.ro/2026/11/23/c8ct3RfUTgZ3nX3uuaYu.png)
+
+
+NHL | Minnesota Wild vs. Chicago Blackhawks LIVE on NHL AntenaPlay
+
 
 
 
