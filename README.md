@@ -15,21 +15,21 @@ FIFA U-17 World Cup Qatar 2026 LIVE on AntenaPLAY
 Program for the games:
 
 
-![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/db0b72c8-247f-44a0-8c93-334067d9b449.png)
+![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/bf316dd9-4ac7-4c25-ba1c-dd45c1488770.png)
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Ecuador vs. South Korea LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | New Zealand vs. Belgium LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
 
-FIFA U-17 World Cup Qatar 2026 | Uruguay vs. France LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Uzbekistan vs. Italy LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Greece vs. Qatar LIVE on FIFA U-17 World Cup 1 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Marocco vs. Spain LIVE on FIFA U-17 World Cup 1 AntenaPlay
 
 
-FIFA U-17 World Cup Qatar 2026 | Denmark vs. Argentina LIVE on FIFA U-17 World Cup 2 AntenaPlay
+FIFA U-17 World Cup Qatar 2026 | Croatia vs. Cuba LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
 
