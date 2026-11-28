@@ -12,7 +12,24 @@ In this m3u playlist u can find all TV Channels from the romanian online platfor
 FIFA U-17 World Cup Qatar 2026 LIVE on AntenaPLAY
 
 
-Program for the games:
+Program for the Quarter-finals games:
+
+
+
+![alt link](https://i.supaimg.com/9132c6b5-1ae8-4ad3-95f7-b0f044851fda/721a36b0-e776-475a-af66-e646ad3778a9.png)
+
+
+
+Italy vs Tadjikistan LIVE on FIFA U-17 World Cup 1 AntenaPlay
+
+
+Brazil vs Mozambique LIVE on FIFA U-17 World Cup 2 AntenaPlay
+
+
+Mexico vs Argentina LIVE on FIFA U-17 World Cup 1 AntenaPlay
+
+
+Spain vs Uzbekistan LIVE on FIFA U-17 World Cup 2 AntenaPlay
 
 
 
